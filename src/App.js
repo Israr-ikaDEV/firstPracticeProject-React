@@ -11,6 +11,7 @@ const App = () => {
       <Navbar firstHeading='home(props)' secondHeading='about(props)' companyName='IKA' />
       <Hero />
       <About />
+      <Navbar companyName="Giga"/>
       <Contact/>
     </div>
   );
